@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the loans data is correct 1`] = `
+Array [
+  Object {
+    "amount": 10000,
+    "id": 1,
+    "name": "HVAC loan",
+  },
+  Object {
+    "amount": 25000,
+    "id": 2,
+    "name": "Solar loan",
+  },
+  Object {
+    "amount": 15000,
+    "id": 3,
+    "name": "Battery loan",
+  },
+  Object {
+    "amount": 20000,
+    "id": 4,
+    "name": "Roofing loan",
+  },
+]
+`;

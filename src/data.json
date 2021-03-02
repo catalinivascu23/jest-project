@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "HVAC loan",
+    "amount": 10000
+  },
+  {
+    "id": 2,
+    "name": "Solar loan",
+    "amount": 25000
+  },
+  {
+    "id": 3,
+    "name": "Battery loan",
+    "amount": 15000
+  },
+  {
+    "id": 4,
+    "name": "Roofing loan",
+    "amount": 20000
+  }
+]
